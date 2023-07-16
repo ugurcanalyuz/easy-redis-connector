@@ -1,0 +1,17 @@
+{
+  "license": "MIT",
+  "private": false,
+  "author": "Uğurcan Alyüz",
+  "name": "easy-redis-connector",
+  "version": "1.0.2",
+  "main": "index.js",
+  "keywords": ["redis", "easy-redis", "connector", "nodejs", "async-redis"],
+  "repository": "https://github.com/ugurcanalyuz/easy-redis-connector.git",
+  "bugs": {
+    "url": "https://github.com/ugurcanalyuz/easy-redis-connector/issues"
+  },
+  "dependencies": {
+    "async-redis": "^2.0.0",
+    "redis": "^4.6.7"
+  }
+}
