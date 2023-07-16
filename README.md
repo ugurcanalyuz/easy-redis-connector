@@ -6,6 +6,8 @@ EasyRedisConnector is a Node.js library that provides a convenient way to connec
 
 ```bash
 npm install easy-redis-connector
+or
+yarn add easy-redis-connector
 ```
 
 ## Usage
@@ -15,6 +17,7 @@ const EasyRedisConnector = require('easy-redis-connector');
 // Create an instance of EasyRedisConnector
 const options = {
   // Redis connection options
+  // The settings that the async-redis library requests for the connection.
 }
 const redisConnector = new EasyRedisConnector(options)
 
