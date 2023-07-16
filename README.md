@@ -9,7 +9,7 @@ npm install easy-redis-connector
 ```
 
 ## Usage
-```
+```js
 const EasyRedisConnector = require('easy-redis-connector');
 
 // Create an instance of EasyRedisConnector

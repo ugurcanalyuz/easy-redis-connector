@@ -3,7 +3,7 @@
   "private": false,
   "author": "Uğurcan Alyüz",
   "name": "easy-redis-connector",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "keywords": ["redis", "easy-redis", "connector", "nodejs", "async-redis"],
   "repository": "https://github.com/ugurcanalyuz/easy-redis-connector.git",
