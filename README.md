@@ -31,7 +31,7 @@ await redisConnector.set('myKey', { name: 'Easy Redis Connector' })
 await redisConnector.update('myKey', { name: 'Easy Redis Connector 2' })
 
 // Delete
-await redisConnector.destroy('myKey')
+await redisConnector.remove('myKey')
 ```
 
 Good Works.
